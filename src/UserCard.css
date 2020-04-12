@@ -1,0 +1,77 @@
+.UserCard {
+    display: flex;
+    flex-grow: 1;
+    background: #fff;
+    border: 1px solid #333;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 8px;
+    flex-direction: column;
+}
+
+.UserCard__avatar-container {
+    display: flex;
+    padding: 16px;
+}
+
+.UserCard__name {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.UserCard__title {
+    font-size: 20px;
+    color: #888;
+}
+
+.UserCard__image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    font-size: 0;
+    margin-right: 12px;
+}
+
+.UserCard__name-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.UserCard__details-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    border-top: 1px solid #333;
+    font-size: 20px;
+}
+
+.UserCard__detail-title {
+    color: #888;
+    font-weight: bold;
+}
+
+.UserCard__detail-info {
+    color: #333;
+}
+
+.UserCard__detail-link {
+    color: #f107ba;
+}
+
+.UserCard__skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.UserCard__pill {
+    background-image: linear-gradient(#f107ba, #155af0);
+    padding: 4px 8px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+}
