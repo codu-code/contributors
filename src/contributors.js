@@ -57,4 +57,12 @@ export default [
       "C/C++",
     ],
   },
+  {
+    id: "amc1234",
+    name: "Ann-Marie Cole",
+    title: "JavaScript Developer",
+    username: "annmariecl",
+    website: "www.codu.ie",
+    skills: ["JavaScript"],
+  }
 ];
