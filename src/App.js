@@ -14,7 +14,7 @@ function App() {
         <div className="App__card-container">
           {contributors.map(
             (contributor) => {
-              return <UserCard key={contributor.id} />
+              return <UserCard key={contributor.id} contributor={contributor}/>
             }
           )}
         </div>
