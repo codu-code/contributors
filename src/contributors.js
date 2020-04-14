@@ -22,5 +22,15 @@ export default [
       username: "pkspyder007",
       website: "www.thejsguy.me",
       skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP","Wordpress", "C/C++"]
+  },
+{
+      id: "L33TZ",
+      name: "Paul McQuade",
+      title: "C++ Developer",
+      username: "paulmcquad",
+      website: "https://paulmcquad.github.io/",
+      skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP", "C/C++"]
   }
+  
+  
 ];
