@@ -1,5 +1,6 @@
 export default [
   {
+
     id: "1123abc",
     name: "Niall Maher",
     title: "JavaScript Developer",
@@ -64,5 +65,14 @@ export default [
     username: "annmariecl",
     website: "www.codu.ie",
     skills: ["JavaScript"],
+  },
+  {
+      id: "L33TZ",
+      name: "Paul McQuade",
+      title: "C++ Developer",
+      username: "paulmcquad",
+      website: "https://paulmcquad.github.io/",
+      skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP", "C/C++"]
   }
+  
 ];
