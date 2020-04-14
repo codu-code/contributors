@@ -14,5 +14,13 @@ export default [
 		username: 'dreplica',
 		website: 'github.com/dreplica',
 		skills: [ 'JavaScript', 'React & RNative', 'CSS', 'HTML', 'NodeJS', 'MongoDB', 'AWS' ]
-	}
+	},
+  {
+      id: "0181i762",
+      name: "Praveen Kumar",
+      title: "Full Stack Developer",
+      username: "pkspyder007",
+      website: "www.thejsguy.me",
+      skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP","Wordpress", "C/C++"]
+  }
 ];
