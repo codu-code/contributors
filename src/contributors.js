@@ -9,7 +9,7 @@ export default [
 	},
 	{
 		id: '234',
-		name: 'Adejo MaDavidher',
+		name: 'Adejo David',
 		title: 'JavaScript Developer',
 		username: 'dreplica',
 		website: 'github.com/dreplica',
