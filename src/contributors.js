@@ -9,6 +9,14 @@ export default [
     skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "AWS"],
   },
   {
+    id: "ywte3278uyj",
+    name: "Sergej Dikun",
+    title: "Automation Developer",
+    username: "Serhazor",
+    website: "https://github.com/Serhazor",
+    skills: ["JavaScript", "CSS", "HTML", "UiPath", "Automation Anywhere", "VBA"]
+},
+  {
     id: "0181i762",
     name: "Praveen Kumar",
     title: "Full Stack Developer",
@@ -74,5 +82,4 @@ export default [
       website: "https://paulmcquad.github.io/",
       skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP", "C/C++"]
   }
-  
 ];
