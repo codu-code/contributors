@@ -49,6 +49,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #333;
+  /* background: #333; */
+
+  /* Just a thought of using  a background image */
+  background-image: url('https://s30776.pcdn.co/wp-content/uploads/2020/04/AdobeStock_305233591.jpeg');
 }
 

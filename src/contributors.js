@@ -1,6 +1,5 @@
 export default [
   {
-
     id: "1123abc",
     name: "Niall Maher",
     title: "JavaScript Developer",
@@ -14,8 +13,15 @@ export default [
     title: "Automation Developer",
     username: "Serhazor",
     website: "https://github.com/Serhazor",
-    skills: ["JavaScript", "CSS", "HTML", "UiPath", "Automation Anywhere", "VBA"]
-},
+    skills: [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "UiPath",
+      "Automation Anywhere",
+      "VBA",
+    ],
+  },
   {
     id: "0181i762",
     name: "Praveen Kumar",
@@ -75,11 +81,27 @@ export default [
     skills: ["JavaScript"],
   },
   {
-      id: "L33TZ",
-      name: "Paul McQuade",
-      title: "C++ Developer",
-      username: "paulmcquad",
-      website: "https://paulmcquad.github.io/",
-      skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP", "C/C++"]
-  }
+    id: "L33TZ",
+    name: "Paul McQuade",
+    title: "C++ Developer",
+    username: "paulmcquad",
+    website: "https://paulmcquad.github.io/",
+    skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP", "C/C++"],
+  },
+  {
+    id: "LZTQ123",
+    name: "Harshith Venkatesh",
+    title: "MERN Stack Developer",
+    username: "Harshi7016",
+    website: "https://harshith-venkatesh.netlify.app/",
+    skills: [
+      "JavaScript",
+      "Angular",
+      "React & RNative",
+      "CSS",
+      "HTML",
+      "NodeJS",
+      "MongoDB",
+    ],
+  },
 ];
