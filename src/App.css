@@ -20,6 +20,11 @@
   text-align: center;
   padding: 24px;
   color: #fff;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(0, 217, 255),
+    rgb(192, 36, 253)
+  );
 }
 
 @media only screen and (max-width: 768px) {
