@@ -3,7 +3,7 @@ export default [
 
     id: "1123abc",
     name: "Niall Maher",
-    title: "JavaScript Developer",
+    title: "Mr. Codú Community",
     username: "NiallJoeMaher",
     website: "http://www.codu.ie",
     skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "AWS"],
