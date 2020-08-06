@@ -81,5 +81,21 @@ export default [
       username: "paulmcquad",
       website: "https://paulmcquad.github.io/",
       skills: ["JavaScript", "CSS", "HTML", "NodeJS", "MongoDB", "PHP", "C/C++"]
-  }
+  },
+  {
+    id: "LZTQ123",
+    name: "Harshith Venkatesh",
+    title: "MERN Stack Developer",
+    username: "Harshi7016",
+    website: "https://harshith-venkatesh.netlify.app/",
+    skills: [
+      "JavaScript",
+      "Angular",
+      "React & RNative",
+      "CSS",
+      "HTML",
+      "NodeJS",
+      "MongoDB",
+    ],
+  },
 ];
